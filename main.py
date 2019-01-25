@@ -49,7 +49,8 @@ def add_rule(dic, animal, rule):
 
 
 def remove_animal(dic, animal):
-
+    
+    pass
 
 
 if __name__ == '__main__':
